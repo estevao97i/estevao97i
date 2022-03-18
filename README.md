@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com Spring(Java) e Angular(Ts)
-- 🌱 Estou estudando sobre Ruby on Rails e RabbitMQ
+- 🌱 Estou estudando sobre RabbitMQ e Elastic Search
 
 <div align="center">
   <a href="https://github.com/estevao97i">
