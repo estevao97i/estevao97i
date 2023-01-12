@@ -1,8 +1,8 @@
-### Olá, me chamo Estevão Córdova👋
+### Hey, I'm Estevão Córdova👋
 
 
-- 🔭 Atualmente trabalho com Spring(Java) e Angular(Ts)
-- 🌱 Estou estudando sobre RabbitMQ e Elastic Search
+- 🔭 Currently i work with Spring(Java) and Angular(Ts)
+- 🌱 I'm studying aboute RabbitMQ and Elastic Search
 
 <div align="center">
   <a href="https://github.com/estevao97i">
