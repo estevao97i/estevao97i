@@ -2,7 +2,7 @@
 
 
 - 🔭 Currently i work with Spring(Java) and Angular(Ts)
-- 🌱 I'm studying aboute RabbitMQ and Elastic Search
+- 🌱 I'm studying about RabbitMQ and Elastic Search
 
 <!-- <div align="center">
   <a href="https://github.com/estevao97i">
